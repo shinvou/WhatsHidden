@@ -1,0 +1,9 @@
+Package: com.shinvou.WhatsHidden
+Name: WhatsHidden
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide the scroll indicator in the chat overview!
+Maintainer: Timm Kandziora
+Author: Timm Kandziora
+Section: Tweaks
