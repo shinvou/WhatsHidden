@@ -3,6 +3,7 @@
 
 ### Intro
 WhatsHidden is a jailbreak extension for iOS that allows users to hide the scroll indicator in the chat overview.
+Why should I use that? I just think it looks better, haha.
 
 ### How do I WhatsHidden?
 Just install the tweak. No options to configure.
